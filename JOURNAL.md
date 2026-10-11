@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 11.45h | 5 |
+| Week 1 | Tier 1 | 11.7h | 5 |
 
 ## Contents
 
@@ -88,7 +88,7 @@ https://lapse.hackclub.com/timelapse/s0SSj_QLhfGS
 
 ### 2026-10-10 – My second attempt to build Starbie from scratch failed misreably during the Update PCB from schematic with an error for ESP32 import failure
 
-**2.75h**
+**3h**
 
 My second attempt to build Starbie from scratch failed misreably during the Update PCB from schematic with an error for ESP32 import failure
 
